@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Deathzer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello everyone, today we are going to talk about an idea
 
-<!---
-Deathzer/Deathzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The Cobra team designs a unique educational platform with thoughtful and innovative educational methods to obtain the necessary experiences in a shorter time than the time required for this experience, and thus you can obtain more experiences to support your resume, delve into the fields of work and raise your practical level
+
+please follow us of facebook : https://www.facebook.com/CobraTeamCCC
